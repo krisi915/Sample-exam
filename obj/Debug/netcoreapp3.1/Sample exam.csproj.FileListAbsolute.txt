@@ -1,0 +1,172 @@
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.exe
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.deps.json
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.runtimeconfig.json
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.pdb
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.Views.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.Views.pdb
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\dotnet-ef.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\staticwebassets\Sample exam.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\staticwebassets\Sample exam.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sample exam.styles.css
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.Views.pdb
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.csproj.CopyComplete
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.dll
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.pdb
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\appsettings.json
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.exe
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.deps.json
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.runtimeconfig.json
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.runtimeconfig.dev.json
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.pdb
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.Views.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Sample exam.Views.pdb
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\dotnet-ef.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.csprojAssemblyReference.cache
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.AssemblyInfoInputs.cache
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.AssemblyInfo.cs
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.csproj.CoreCompileInputs.cache
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.MvcApplicationPartsAssemblyInfo.cache
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.RazorAssemblyInfo.cache
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.RazorAssemblyInfo.cs
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\staticwebassets\Sample exam.StaticWebAssets.Manifest.cache
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\staticwebassets\Sample exam.StaticWebAssets.xml
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sample exam.styles.css
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.TagHelpers.input.cache
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.TagHelpers.output.cache
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.RazorCoreGenerate.cache
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.RazorTargetAssemblyInfo.cache
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.RazorTargetAssemblyInfo.cs
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.Views.pdb
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.csproj.CopyComplete
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.dll
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.pdb
+D:\упр.Уеб програмиран\Sample exam\Sample exam\obj\Debug\netcoreapp3.1\Sample exam.genruntimeconfig.cache
